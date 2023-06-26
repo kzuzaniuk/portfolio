@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## O MNIE
-Cześć! Mam na imię Konrad i jestem aspirującym programistą/testerem, gotowym podjąć nowe wyzwania i chętnym by ciągle rozwijać swoje umiejętności. Podczas studiów zdobyłem doświadczenie w programowaniu w Pythonie i C++ (głównie w Unreal Engine 4/5), a także zgłębiałem tajniki tworzenia stron i aplikacji internetowych, korzystając z JavaScript, Reacta oraz Node.js.
+Cześć! Mam na imię [Konrad](https://www.linkedin.com/in/konrad-zuzaniuk-919a91237/) i jestem aspirującym programistą/testerem, gotowym podjąć nowe wyzwania i chętnym by ciągle rozwijać swoje umiejętności. Podczas studiów zdobyłem doświadczenie w programowaniu w Pythonie i C++ (głównie w Unreal Engine 4/5), a także zgłębiałem tajniki tworzenia stron i aplikacji internetowych, korzystając z JavaScript, Reacta oraz Node.js.
 
 Dodatkowo, posiadam wiedzę na temat podstaw SQL oraz umiejętność testowania i komunikacji z REST API (Python requests, Postman). Pracując nad projektem podczas zajęć akademickich, miałem okazję zaznajomić się z metodyką AGILE i efektywnie pracować w zespole.
 
